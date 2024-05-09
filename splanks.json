@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "type": "Nature Sunshine",
+      "cover": "img19",
+      "hoverImage": "https://images.adsttc.com/media/images/6268/6424/3e4b/3197/fd00/0007/large_jpg/02PI_AP_PH_flo_home_diningroom_classic_wv4_EHC030_STL7_1.jpg?1651008530",
+      "text": "Nature Sunshine plank flooring offers a natural and vibrant look, perfect for any room.",
+      "color": "Brown",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 2,
+      "type": "Classic Walnut",
+      "cover": "img20",
+      "hoverImage": "https://i.pinimg.com/736x/10/5f/35/105f3586f0ff7f5e7a581aac54819c02.jpg",
+      "text": "Classic Walnut plank flooring adds a touch of classic elegance and modernity to your space.",
+      "color": "Light brown",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 3,
+      "type": "Oak Nature",
+      "cover": "img21",
+      "hoverImage": "https://i.pinimg.com/736x/49/8c/a6/498ca60a7351f388427c5fd7127c1b3a.jpg",
+      "text": "Oak Nature plank flooring brings the beauty of nature into your home, making it a great choice for any room.",
+      "color": "Dark brown",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 4,
+      "type": "Mocha Brown",
+      "cover": "img22",
+      "hoverImage": "https://hips.hearstapps.com/hmg-prod/images/edc050123studiokenyon-004-642dd32116e25.jpg?crop=1.00xw:0.725xh;0,0.275xh&resize=1200:*",
+      "text": "Mocha Brown plank flooring offers a unique and stylish look, perfect for adding a touch of sophistication to your home or office.",
+      "color": "Medium brown",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 5,
+      "type": "Summer Gray",
+      "cover": "img23",
+      "hoverImage": "https://laminateglasgow.com/cdn/shop/products/IMG_0653.jpg?v=1612186981",
+      "text": "Summer Gray plank flooring combines aesthetics and durability, making it a great choice for any room.",
+      "color": "Light Gray",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 6,
+      "type": "Coastal Wood",
+      "cover": "img24",
+      "hoverImage": "https://www.flooringamerica.com/root/clientImages/MF7979web/findmystyle/My%20Design%20Finder_1088.jpg",
+      "text": "Coastal Wood plank flooring adds a touch of coastal charm and warmth to any space.",
+      "color": "Dark ",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 7,
+      "type": "Rain Grey",
+      "cover": "img25",
+      "hoverImage": "https://i.pinimg.com/originals/02/f2/0e/02f20e6f6ec816fbc03a1363a03c17a2.png",
+      "text": "Rain Grey flooring brings a touch of modern sophistication to any space, with its unique grey tone.",
+      "color": "various ",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    },
+    {
+      "id": 8,
+      "type": "Natural Teak",
+      "cover": "img26",
+      "hoverImage": "https://images.squarespace-cdn.com/content/v1/5384c1abe4b09192d2a9336d/1515449148396-INV6FGB5A72A19FF7ZUS/ambienteteak.jpg?format=1500w",
+      "text": "Natural Teak flooring brings the warmth and richness of natural wood to any space, with its varied color tones.",
+      "color": "Various",
+      "thickness": "8mm",
+      "plank_dimension": "200*1220 mm",
+      "joint": "Wax coated Click lock",
+      "finish": "AC 4, 2000 round tested",
+      "hdf": "825 HDF"
+    }
+  ]
+  
